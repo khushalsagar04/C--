@@ -3,7 +3,6 @@ using namespace std;
 
 void rowSum(int arr[][4], int row, int col){
     
-    //int sum=0;
     int temp=0;
     int tempIndex=0;
 
